@@ -36,5 +36,6 @@ vignettes/*.pdf
 rsconnect/
 
 .DS_Store
-.csv
-.xls
+*.csv
+*.xls
+*.xlsx
